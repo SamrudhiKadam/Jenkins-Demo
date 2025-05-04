@@ -1,1 +1,1 @@
-print("You are the best Samrudhi V3")
+prt("You are the best Samrudhi V3")
